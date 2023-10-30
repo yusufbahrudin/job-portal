@@ -471,7 +471,6 @@ _200 - OK_
       }
     ]
   }
-  `
   ```
 
 ### GET /public/jobs/:id
