@@ -505,7 +505,6 @@ _200 - OK_
   "updatedAt": "2023-08-23T10:53:25.559Z",
   "QRcode": "qrcode data"
   }
-  `
   ```
 
 _404 - Not Found_
