@@ -1,0 +1,26 @@
+[
+  {
+    "username": "yusuf",
+    "email": "yusuf@gmail.com",
+    "password": "hahahehe",
+    "role": "admin",
+    "phoneNumber": "081295026951",
+    "address": "Kp. Sinarwangi No. 001, Ds. Sukajadi, Kec. Tamansari"
+  },
+  {
+    "username": "Barbar Oyen",
+    "email": "barbaroyen@gmail.com",
+    "password": "hahahaha",
+    "role": "staff",
+    "phoneNumber": "123456789",
+    "address": "Kp. Sinarwangi No. 002, Ds. Sukajadi, Kec. Tamansari"
+  },
+  {
+    "username": "Amon Badung",
+    "email": "amonbadung@gmail.com",
+    "password": "wkwkwkwk",
+    "role": "staff",
+    "phoneNumber": "987654321",
+    "address": "Kp. Sinarwangi No. 003, Ds. Sukajadi, Kec. Tamansari"
+  }
+]
